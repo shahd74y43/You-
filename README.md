@@ -11,4 +11,4 @@
 npm install
 node bot.js
 
-Made with ❤️ by Shahd - 13yo developer from Khobar
+Made with ❤️ by Shahd - 13yo developer 
